@@ -1,5 +1,3 @@
-### Hi there 👋 I am KienMCVN!
-
 <div align="center">
 <table border="1" width="370px" height="auto">
 <tr>
