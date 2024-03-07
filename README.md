@@ -41,8 +41,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KienMCVN&layout=compact&theme=white" alt="top-langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KienMCVN&theme=white&show_icons=true" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KienMCVN&layout=compact&theme=white" alt="top-langs"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KienMCVN&theme=white&show_icons=true" alt="github-stats"/><br>
   <img src="https://github-profile-trophy.vercel.app/?username=KienMCVN"/>
   
   <img align="center" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
