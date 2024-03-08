@@ -7,10 +7,18 @@
     </tr>
     <tr style="display: inline-block;">
       <td align="center">
+        <p>My Nick Name</p>
+      </td>
+      <td align="center">
+        <p><b>KienDev</b></p>
+      </td>
+    </tr>
+    <tr style="display: inline-block;">
+      <td align="center">
         <p>My Real Name</p>
       </td>
       <td align="center">
-        <p><b>Vo Trung Kien</b></p>
+        <p><b>Võ Trung Kiên</b></p>
       </td>
     </tr>
     <tr style="display: inline-block;">
