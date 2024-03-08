@@ -1,43 +1,45 @@
-<div align="center">
-<table border="1" width="370px" height="auto">
-<tr>
-<th colspan="2"><p>My Information</p></th>
-</tr>
-<tr>
-<td align="center">
-<p>My Real Name</p>
-</td>
-<td align="center">
-<p><b>Vo Trung Kien</b></p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>My Email</p>
-</td>
-<td align="center">
-<a href="mailto:kienmc2112@gmail.com"><i>kienmc2112@gmail.com</i></a>
-</td>
-</tr>
-<tr>
-<th align="center" colspan="2">
-<p>My GitHub</p>
-<a href="https://github.com/KienMCVN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KienMCVN" height="30" width="40" /></a>
-</th>
-</tr>
-<tr>
-<th align="center" colspan="2">
-<p>My Facebook</p>
-<a href="https://www.facebook.com/profile.php?id=100068614539939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KienMCVN" height="30" width="40" /></a>
-</th>
-</tr>
-<tr>
-<th align="center" colspan="2">
-<p>My YouTube Channel</p>
-<a href="https://www.youtube.com/@KienMCGaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KienMCGaming" height="30" width="40" /></a>
-</th>
-</tr>
-</table>
+<div align="center" style="display: inline-block;">
+  <table border="1" width="370px" height="auto">
+    <tr>
+      <th colspan="2">
+        <p>My Information</p>
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <p>My Real Name</p>
+      </td>
+      <td align="center">
+        <p><b>Vo Trung Kien</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p>My Email</p>
+      </td>
+      <td align="center">
+        <a href="mailto:kienmc2112@gmail.com"><i>kienmc2112@gmail.com</i></a>
+      </td>
+    </tr>
+    <tr>
+      <th align="center" colspan="2">
+        <p>My GitHub</p>
+        <a href="https://github.com/KienMCVN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KienMCVN" height="30" width="40" /></a>
+      </th>
+    </tr>
+    <tr>
+      <th align="center" colspan="2">
+        <p>My Facebook</p>
+        <a href="https://www.facebook.com/profile.php?id=100068614539939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KienMCVN" height="30" width="40" /></a>
+      </th>
+    </tr>
+    <tr>
+      <th align="center" colspan="2">
+        <p>My YouTube Channel</p>
+        <a href="https://www.youtube.com/@KienMCGaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KienMCGaming" height="30" width="40" /></a>
+      </th>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
